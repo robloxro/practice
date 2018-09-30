@@ -50,4 +50,6 @@ public class CoderByteLongestWord {
         System.out.print(LongestWord(s.nextLine()));
 
     }
+
+
 }
