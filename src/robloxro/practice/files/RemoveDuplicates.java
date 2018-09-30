@@ -4,7 +4,6 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
-import java.util.HashMap;
 import java.util.Scanner;
 
 /* Given two txt files with  one word per line, create athird file with the result of concatenating file1+ file 2 contents and remove duplicates.
