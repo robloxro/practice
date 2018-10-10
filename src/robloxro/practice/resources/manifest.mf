@@ -1,0 +1,2 @@
+Main-Class: ExampleJob
+Class-Path: lib/spark-core_2.11-2.3.1.jar lib/scala-library-2.11.8.jar lib/hadoop-mapreduce-client-core-2.7.3.jar
